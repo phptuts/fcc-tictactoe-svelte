@@ -5,9 +5,13 @@ This was built as part of a free code camp video series.
 ## Branches
 
 [1-challenge-create-app](https://github.com/phptuts/fcc-tictactoe-svelte/tree/1-challenge-create-app)
+
 [2-readable-store](https://github.com/phptuts/fcc-tictactoe-svelte/tree/2-readable-store)
+
 [3-request-next-move](https://github.com/phptuts/fcc-tictactoe-svelte/tree/3-request-next-move)
+
 [4-new-game](https://github.com/phptuts/fcc-tictactoe-svelte/tree/4-new-game)
+
 [5-gh-pages](https://github.com/phptuts/fcc-tictactoe-svelte/tree/5-gh-pages)
 
 ## Node Server Used
