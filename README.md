@@ -2,6 +2,9 @@
 
 This was built as part of a free code camp video series.
 
+## Demo
+https://phptuts.github.io/fcc-tictactoe-svelte/
+
 ## Branches
 
 [1-challenge-create-app](https://github.com/phptuts/fcc-tictactoe-svelte/tree/1-challenge-create-app)
